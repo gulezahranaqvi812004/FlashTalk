@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515556768820",
+    "project_id": "flashmaster-aafc0",
+    "storage_bucket": "flashmaster-aafc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515556768820:android:f083eaa333e26ddbf4de61",
+        "android_client_info": {
+          "package_name": "com.gulezahra.flashmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn0YVQZzLcA-FI7031pjRhngSwhN8aqwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
